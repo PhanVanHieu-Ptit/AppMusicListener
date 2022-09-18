@@ -104,9 +104,9 @@
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
-## Key Features
+## App musicLisener
 
-* LivePreview - Make changes, See changes
+*Ứng dụng nghe nhạc dành cho android được viết hoàn toàn bằng ngôn ngữ lập trình java.
   - Instantly see what your Markdown documents look like in HTML as you create them.
 * Sync Scrolling
   - While you type, LivePreview will automatically scroll to the current location you're editing.
