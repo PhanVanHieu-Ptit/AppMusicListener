@@ -1,4 +1,14 @@
+## App musicLisener
 
+* Ứng dụng nghe nhạc dành cho android được viết hoàn toàn bằng ngôn ngữ lập trình java.
+* Tác giả: Phan Văn Hiểu
+* Link video demo: https://www.youtube.com/watch?v=U2KMc8MjdfQ
+
+<h1>
+  <br>
+  Hình ảnh minh họa
+  <br>
+<h1>
 <h1 align="center">
   <br>
   <a href="https://github.com/PhanVanHieu-Ptit/AppMusicListener/blob/main/anhManHinhChinh.jpg"><img src="https://github.com/PhanVanHieu-Ptit/AppMusicListener/blob/main/anhManHinhChinh.jpg" alt="Markdownify" width="200"></a>
@@ -77,12 +87,3 @@
   Màn hình danh sách playlist
   <br>
 </h1>
-
-
-  
-
-## App musicLisener
-
-*Ứng dụng nghe nhạc dành cho android được viết hoàn toàn bằng ngôn ngữ lập trình java.
-* Tác giả: Phan Văn Hiểu
-* Link video demo: https://www.youtube.com/watch?v=U2KMc8MjdfQ
