@@ -85,3 +85,4 @@
 
 *Ứng dụng nghe nhạc dành cho android được viết hoàn toàn bằng ngôn ngữ lập trình java.
 * Tác giả: Phan Văn Hiểu
+* Link video demo: https://www.youtube.com/watch?v=U2KMc8MjdfQ
